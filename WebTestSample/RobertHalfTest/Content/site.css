@@ -1,0 +1,14 @@
+﻿.square {
+   position:relative;
+   width: 500px;
+   height: 500px;
+   background: #5a9bd5;}
+
+.squareII {
+   position:absolute;
+   width: 250px;
+   height: 250px;
+   background: #ffff01;
+   margin-top: 125px;
+   margin-left: 125px;
+}
